@@ -11,11 +11,11 @@ body {
 
 /* Cabeçalho */
 header {
-    background-color: #004085;
+    background-color: #4890d3;
     color: #ffffff;
     padding: 30px 20px;
     text-align: center;
-    border-bottom: 5px solid #002752;
+    border-bottom: 5px solid #245ea1;
 }
 
 header h1 {
